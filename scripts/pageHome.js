@@ -391,7 +391,7 @@ $("#greetings").click(function () {
     currOpenBox = "Whitebox";
 
   if (!textAdded) {
-    var texts = ["I am a shelf-tought programmer,",
+    var texts = ["I am a shelf-tought 3D Artist,",
                  "Front-end developer.",
                  "Also Back-end is in progress." ];
 
